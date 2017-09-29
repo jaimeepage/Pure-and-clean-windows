@@ -1,0 +1,64 @@
+#header-text-box {
+  height: 400px;
+  background: url("http://sunnyswindowcleaning.co.uk/wp-content/uploads/2015/01/window-cleaner1.jpg");
+  background-size: cover;
+  color: white;
+  text-shadow: 0 2px #000;
+  margin-bottom: 5%;
+}
+
+#header-text-box .col-lg-4 {
+  margin: auto;
+  background-color: rgba(90, 93, 94, .65);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.paypal-logo {
+  margin: 8px 0 12px 0px;
+  width: 30%;
+}
+
+.map {
+  width: 350px;
+  border: 5px solid steelblue;
+  display: block;
+  margin: auto;
+}
+
+.areas {
+  margin-top: 2%;
+  text-align: center;
+}
+
+.areas li {
+  list-style: none;
+  display: inline-block;
+  padding: 0 2px;
+  
+}
+.pay-now {
+  padding-right: 20%;
+  padding-left: 20%;
+  margin: 0 17.5%;
+  margin-bottom: 20px;
+}
+
+footer {
+  height: 3%;
+  padding: 4px 25px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  
+}
+.policies a {
+  text-decoration: none;
+  color: white;
+  padding: 0 3px;
+}
+
+.policies a:hover {
+  text-decoration: underline;
+}
+
